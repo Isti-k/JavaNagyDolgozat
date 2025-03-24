@@ -74,9 +74,12 @@ public class Tantargy implements Comparable<Tantargy> {
     }
 
 
-    
+
     @Override
     public int compareTo(Tantargy o) {
         return 0;
     }
+
+
+    
 }
